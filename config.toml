@@ -12,7 +12,7 @@ taxonomies = [{ name = "tags" }]
 highlight_code = true
 
 [extra]
-
+theme = "auto"
 socials = [
   { name = "github", url = "https://github.com/thy0s/", icon = "github" },
 ]
