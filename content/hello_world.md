@@ -1,6 +1,6 @@
 +++
 title = "Hello World"
-path = "hello-world"
+date = "2025-02-06"
 +++
 
 # Hello World
