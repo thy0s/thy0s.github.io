@@ -14,7 +14,6 @@ highlight_code = true
 [extra]
 
 socials = [
-  { name = "linkedin", url = "https://linkedin.com/in/theodor-bloch", icon = "linkedin" },
   { name = "github", url = "https://github.com/thy0s/", icon = "github" },
 ]
 menu = [
