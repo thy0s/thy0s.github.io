@@ -1,0 +1,22 @@
+base_url = "https://thy0s.github.io"
+title = "Linux Adventures"
+
+default_language = "en"
+compile_sass = true
+
+theme = "apollo"
+
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+highlight_code = true
+
+[extra]
+
+socials = [
+  { name = "linkedin", url = "https://linkedin.com/in/theodor-bloch", icon = "linkedin" },
+  { name = "github", url = "https://github.com/thy0s/", icon = "github" },
+]
+menu = [
+  # Configure menu bar here
+]
