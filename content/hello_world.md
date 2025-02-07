@@ -9,5 +9,5 @@ date = "2025-02-06"
 - *Italics*
 
 ## Mars
-- Embrace the martian... and this is how he writes.
+- Embrace the martian... and this is how he sounds.
 - **PHAT BEATZ**

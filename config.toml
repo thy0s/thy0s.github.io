@@ -1,8 +1,9 @@
-base_url = "https://thy0s.github.io"
-title = "Linux Adventures"
+base_url = "https://thy0s.github.io/ghpages/"
+title = "Adventures"
 
 default_language = "en"
 compile_sass = true
+build_search_index = true
 
 theme = "apollo"
 
@@ -12,10 +13,13 @@ taxonomies = [{ name = "tags" }]
 highlight_code = true
 
 [extra]
-theme = "auto"
+theme = "dark"
+
 socials = [
   { name = "github", url = "https://github.com/thy0s/", icon = "github" },
 ]
+
 menu = [
-  # Configure menu bar here
+  { name = "/posts", url = "/posts", weight = 1 },
+  #{ name = "/about", url = "/about", weight = 2 },
 ]
