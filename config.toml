@@ -4,4 +4,6 @@ default_language = "de"
 
 build_search_index = true
 
+theme = "tabi"
+
 taxonomies = [{ name = "tags" }]
