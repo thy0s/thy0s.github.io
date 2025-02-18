@@ -1,25 +1,7 @@
 base_url = "https://thy0s.github.io"
-title = "Adventures"
+title = "thy0s"
+default_language = "de"
 
-default_language = "en"
-compile_sass = true
 build_search_index = true
 
-theme = "apollo"
-
 taxonomies = [{ name = "tags" }]
-
-[markdown]
-highlight_code = true
-
-[extra]
-theme = "dark"
-
-socials = [
-  { name = "github", url = "https://github.com/thy0s/", icon = "github" },
-]
-
-menu = [
-  { name = "/linux", url = "/linux", weight = 1 },
-  { name = "/about", url = "/about", weight = 2 },
-]
