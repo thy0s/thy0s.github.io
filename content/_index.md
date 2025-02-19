@@ -1,9 +1,8 @@
 +++
 title = "thy0s"
 sort_by = "date"
+paginate_by = 5
 
 [extra]
 header = {title = "thy0s"}
-section_path = "_index.md"
-max_posts = 5
 +++

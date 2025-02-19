@@ -3,7 +3,7 @@ title = "Posts"
 sort_by = "date"
 
 [extra]
-header = {title = "Linux Topics"}
+header = {title = "Open Source Topics"}
 #section_path = "linux/_index.md"
 max_posts = 5
 +++
