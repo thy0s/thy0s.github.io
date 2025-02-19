@@ -1,12 +1,15 @@
 base_url = "https://thy0s.github.io"
 title = "thy0s"
-default_language = "de"
+default_language = "en"
 
 build_search_index = true
 
 theme = "tabi"
 
 taxonomies = [{ name = "tags" }]
+
+[languages.de]
+title = "thy0s auf deutsch"
 
 [extra]
 menu = [
