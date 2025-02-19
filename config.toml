@@ -7,3 +7,13 @@ build_search_index = true
 theme = "tabi"
 
 taxonomies = [{ name = "tags" }]
+
+[extra]
+menu = [
+    { name = "linux", url = "linux", trailing_slash = true },
+    { name = "opensource", url = "opensource", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
+    { name = "about", url = "about", trailing_slash = true },
+    { name = "github", url = "https://github.com/thy0s/thy0s.github.io", trailing_slash = false },
+]
