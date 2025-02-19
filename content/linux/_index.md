@@ -2,9 +2,11 @@
 title = "Posts"
 sort_by = "date"
 
+[language.de]
+title = "Posts"
+
 [extra]
 header = {title = "Linux Topics"}
-#section_path = "linux/_index.md"
 max_posts = 5
 +++
 
